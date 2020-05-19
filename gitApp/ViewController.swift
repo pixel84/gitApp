@@ -18,6 +18,12 @@ class ViewController: UIViewController {
          1
          */
 
+        //Code 2
+        /*
+         
+         2
+         
+         */
 
     }
 
