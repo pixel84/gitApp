@@ -35,6 +35,8 @@ class ViewController: UIViewController {
         //appstore ver2
         
         // some changes
+        
+        //segments added
 
     }
 
